@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/Tapsirig3.csproj" />
+  <Project Path="ConsoleApp2/Tapsirig1.csproj" />
+  <Project Path="Tapsirig2/Tapsirig2.csproj" />
+  <Project Path="Tapsirig4/Tapsirig4.csproj" />
+</Solution>
